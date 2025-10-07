@@ -1,12 +1,5 @@
 ---
 title: "testing"
-excerpt_separator: "<!--more-->"
-categories:
-  - Post Formats
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 Tujuan dari testing ini adalah untuk memastikan seluruh komponen sistem berjalan sesuai dengan fungsinya tanpa error. Pengujian dilakukan secara bertahap, dimulai dari pengecekan konfigurasi awal, validasi koneksi antar komponen, hingga verifikasi hasil output.

@@ -1,9 +1,12 @@
 ---
 layout: post
-title: CasaOS bukan OS yang pada umumnya, tapi ini tool
+title: CasaOS — Bukan OS, Tapi Tool Buat Ngatur Server dan Container
 ---
 
+## Casa!OS
+
 **CasaOS** adalah platform open-source yang memudahkan dalam mengelola container dan aplikasi self-hosted via web ui. CasaOS secara otomatis menginstal dan bisa mengelola Docker.
+Platform ini dikembangkan oleh **IceWhale Technology**, perusahaan yang fokus bikin solusi open-source untuk server pribadi dan smart home.
 
 ## Kenapa CasaOS
 
@@ -38,4 +41,4 @@ curl -fsSL https://get.casaos.io | sudo bash
 
 dengan user root atau command `sudo`
 
-source: https://casaos.zimaspace.com/
+source: [https://casaos.zimaspace.com/](https://casaos.zimaspace.com/)

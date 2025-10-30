@@ -4,8 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I'm a long time Android developer (2009), with particular interests in security, TDD & architecture. 
-
-### Contact me
-
-[@doriancussen](https://twitter.com/doriancussen)
+M. Azzami Pratama,suka banget ngulik **teknologi baru** dan **open-source**.  
+cuma pengen berbagi hal-hal yang pernah pelajari dan coba sendiri.

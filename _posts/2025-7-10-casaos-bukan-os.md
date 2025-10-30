@@ -41,4 +41,6 @@ curl -fsSL https://get.casaos.io | sudo bash
 
 dengan user root atau command `sudo`
 
+
+
 source: [https://casaos.zimaspace.com/](https://casaos.zimaspace.com/)

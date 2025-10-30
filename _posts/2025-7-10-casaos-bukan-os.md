@@ -5,8 +5,6 @@ title: CasaOS bukan OS yang pada umumnya, tapi ini tool
 
 **CasaOS** adalah platform open-source yang memudahkan dalam mengelola container dan aplikasi self-hosted via web ui. CasaOS secara otomatis menginstal dan bisa mengelola Docker.
 
----
-
 ## Kenapa CasaOS
 
 Bagi yang ingin menjalankan aplikasi/service pribadi di server lab pribadi, mini PC, atau Raspberry Pi, CasaOS memudahan penggunaan dan fleksibilitas Docker.  
@@ -29,14 +27,12 @@ fitur CasaOS:
 
 Dengan CasaOS, kita bisa memiliki lingkungan self-hosting yang mudah kelola.
 
----
-
 ## Instalasi CasaOS
 
 CasaOS bisa diinstal langsung pada os linux dan hampir semua linux bisa diinstall CasaO.  
 Proses instalasinya simple, cukup jalankan perintah:
 
-```bash
+```
 curl -fsSL https://get.casaos.io | sudo bash
 ```
 
